@@ -1,0 +1,5 @@
+Dựa vào source code có sẵn của buổi 1. folder typescript.
+Không dùng frameworks như express.js, nestjs...
+	1. Tạo thêm api users method POST và PUT, yêu cầu đọc được body request và trả về response giống hệt như api GET.
+	2. Làm thêm api employees, có GET, POST, PUT và trả về data tương tự như /users (employees cần fake 1 data khác)
+		
